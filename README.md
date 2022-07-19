@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/emmanza2" target="blank"><img src="https://img.shields.io/twitter/follow/emmanza2?logo=twitter&style=for-the-badge" alt="emmanza2" /></a> </p>
 
-- 🔭 I’m currently working on [kafka-replay-app and another secret project](https://github.com/emmanz1995/kafka-replay-app.git)
+- 🔭 I’m currently working on **kafka-replay-app and another secret project**
 
 - 🌱 I’m currently learning **TypeScript**
 
