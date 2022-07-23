@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://emmanuel-okuchukwu.netlify.app/](https://emmanuel-okuchukwu.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://emmanz95.netlify.app/](https://emmanz95.netlify.app/)
 
 - 💬 Ask me about **react, node or anything web dev related**
 
