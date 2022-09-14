@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **kafka-replay-app and another secret project**
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **TypeScript and Go**
 
 - 👨‍💻 All of my projects are available at [https://emmanz95.netlify.app/](https://emmanz95.netlify.app/)
 
